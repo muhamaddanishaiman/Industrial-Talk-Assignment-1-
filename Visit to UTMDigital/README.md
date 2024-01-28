@@ -1,2 +1,3 @@
 ### Reflection
 --------------
+The industrial visit to UTM Digital was incredibly insightful. One of the most impactful things I learned was how machine learning technologies are integrated into their processes. Seeing real-world applications and understanding the role these technologies play in optimising operations and decision-making was eye-opening. Additionally, the emphasis on cybersecurity measures and data privacy within the digital department highlighted the critical importance of safeguarding sensitive information in today's digital landscape. Overall, the experience provided a deep understanding of the cutting-edge technologies shaping the industry and the practical challenges that digital departments face on a day-to-day basis.
