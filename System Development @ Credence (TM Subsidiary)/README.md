@@ -1,2 +1,3 @@
 ### Reflection
 --------------
+My objective is to become a skilled system developer with a strong understanding of the broad trends in the constantly changing tech industry over the course of the next four years. I really think that it's important to be up to date in this subject. Because of my dedication to lifelong learning, I am able to keep up with industry developments and can easily incorporate new technologies and development techniques into my system development processes. I want to make my systems more flexible and long-lasting by keeping an eye on current trends and encouraging a culture of innovation and continuous development.
